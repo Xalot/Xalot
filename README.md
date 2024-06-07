@@ -5,7 +5,7 @@
 
 🌐 **English:**
 
-I'm an Office Universal Assistant at the Mexican Social Security Institute (IMSS) with a role focused on Organizational Knowledge and Innovation (COI). As a recent Computer Systems Engineering graduate, I'm passionate about diving into web development, database management, AI, and blockchain technology.
+ I'm passionate about diving into web development, database management, AI, and blockchain technology.
 
 Languages I work with include Python, Java, C++, JavaScript, Node.js, and Arduino. I'm eager to collaborate on projects that will challenge me and broaden my expertise.
 
@@ -17,7 +17,7 @@ Languages I work with include Python, Java, C++, JavaScript, Node.js, and Arduin
 
 🌐 **Español:**
 
-Soy Auxiliar Universal De Oficina en el Instituto Mexicano Del Seguro Social (IMSS) enfocado en el criterio de Conocimiento Organizacional e Innovación (COI). Como egresado reciente de Ingeniería en Sistemas Computacionales, estoy apasionado por profundizar en desarrollo web, gestión de bases de datos, IA y tecnología blockchain.
+Egresado de Ingeniería en Sistemas Computacionales, estoy apasionado por profundizar en desarrollo web, gestión de bases de datos, IA y tecnología blockchain.
 
 Lenguajes con los que trabajo incluyen Python, Java, C++, JavaScript, Node.js y Arduino. Estoy deseoso de colaborar en proyectos que me desafíen y amplíen mi experiencia.
 
